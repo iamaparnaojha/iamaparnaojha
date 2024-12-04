@@ -92,6 +92,10 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
+<a href="https://github.com/iamaparnaojha/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamaparnaojha&theme=high-contrast" alt="Aparna's GitHub Activity Graph" />
+</a>
+
 <h2 align="center">💡 A Coding Thought</h2>
 
 <p align="center">
