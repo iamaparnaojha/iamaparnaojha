@@ -1,19 +1,24 @@
-<h1 align="center">✨ Hey, I'm Aparna 👋</h1>
-<h3 align="center">Full Stack Developer | DSA Enthusiast | India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Aparna</h1>
+<h3 align="center">Full Stack Web Developer | DSA Enthusiast | India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+💻;DSA+with+C%2B%2B+⚡;Building+Projects+That+Make+Impact+🚀;Always+Learning+Something+New+🔥" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+DSA+Enthusiast;MERN+Stack+%7C+Clean+and+Secure+Code;Always+Learning%2C+Building%2C+Improving" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
 ---
 
-## 🌸 About Me
+## 🌟 About Me  
 
-- 💻 Passionate about creating **secure, scalable full-stack projects**
-- 🚀 Currently focusing on **MERN Stack & Real-world system building**
-- 📈 Working on improving problem-solving with **Data Structures & Algorithms**
-- 🎨 I love bringing UI to life using **GSAP & clean frontend design**
-- ☕ Code + Music + Cold Coffee = ✨ Productivity Mode
+- 💻 I love building **fast, responsive, full-stack web apps**  
+- ⚙️ Exploring **MERN stack, APIs, and secure architectures**  
+- 📚 Leveling up in **Data Structures & Algorithms (C++)**  
+- 🎨 Enjoy adding **GSAP animations** & smooth UI touches  
+- ☕ Most productive with **good music + coffee**  
+- 🚀 Goal: **Build real-world projects that actually help people**  
 
 ---
 
