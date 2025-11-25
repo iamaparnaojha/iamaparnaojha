@@ -1,113 +1,105 @@
-<h1 align="center">Hi 👋! My name is Aparna, I'm from India.</h1>
+<h1 align="center">✨ Hey, I'm Aparna 👋</h1>
+<h3 align="center">Full Stack Developer | DSA Enthusiast | India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+DSA+Enthusiast;Building+Secure+%26+Scalable+Apps;Learning%2C+Growing%2C+Innovating!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+💻;DSA+with+C%2B%2B+⚡;Building+Projects+That+Make+Impact+🚀;Always+Learning+Something+New+🔥" />
 </p>
+
+---
+
+## 🌸 About Me
+
+- 💻 Passionate about creating **secure, scalable full-stack projects**
+- 🚀 Currently focusing on **MERN Stack & Real-world system building**
+- 📈 Working on improving problem-solving with **Data Structures & Algorithms**
+- 🎨 I love bringing UI to life using **GSAP & clean frontend design**
+- ☕ Code + Music + Cold Coffee = ✨ Productivity Mode
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+  <a href="https://www.linkedin.com/in/iamaparnaojha/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aparna%20Ojha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:ojhaaparna0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ojhaaparna0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/iamaparnaojha/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/user/ojhaap7qao/">
+    <img src="https://img.shields.io/badge/GFG-Profile-097F32?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+
+  <a href="https://www.codechef.com/users/aparna_ojha">
+    <img src="https://img.shields.io/badge/CodeChef-aparna_ojha-9146FF?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+
+  <a href="https://codeforces.com/profile/iamaparnaojha">
+    <img src="https://img.shields.io/badge/Codeforces-iamaparnaojha-005FFF?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+
 </p>
 
-<h2 align="center">🌟 About Me</h2>
+---
+
+## 🛠 Tech Stack
+
+#### 🚀 Languages  
+`C` `C++` `Java` `JavaScript`
+
+#### 🎨 Frontend & UI  
+`React` `TailwindCSS` `GSAP` `MUI` `Vite`
+
+#### ⚙ Backend  
+`Node.js` `Express.js` `JWT` `REST APIs`
+
+#### 🗄 Databases  
+`MongoDB`
+
+#### 🛠 Tools & Deployment  
+`Git` `GitHub` `Vercel` `Netlify` `Postman` `Nodemon`
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| ⭐ **Kawach** | Secure document sharing using expiring QR codes | MERN + Cloudinary |
+| ⭐ **Artify** | Modern full stack Social media website | Django |
+| ⭐ **Campus Query AI** | Multilingual AI Chatbot for students | RAG + AI + Web |
+
+---
+
+## 🐍 Contribution Snake  
 
 <p align="center">
-  I'm super into making apps that work great for lots of people. Right now, I'm geeking out over full-stack dev. Why? 'Cause I wanna build cool stuff that actually helps people!
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+---
+
+## 👁 Profile Views  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+  <img src="https://komarev.com/ghpvc/?username=iamaparnaojha&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
 
-<br>
+---
 
-<h2 align="center">🚀 What's Keeping Me Busy</h2>
+## 💡 Quote of the Day
 
 <p align="center">
-💻 Building full-stack web apps with the MERN stack – it’s my power tool for modern, dynamic web apps.
-🌐 MongoDB, Express, React, and Node.js – this stack is a total game-changer! <br>
-  📊 Mastering Data Structures and Algorithms with C++ – taking my problem-solving to the next level.
-⚙️ From arrays to advanced algorithms, it’s all about cracking efficiency!<br>
-  🎬 Bringing websites to life using GSAP – smooth, fluid animations that make everything pop!
-✨ Dynamic, interactive, and engaging front-end magic with just a few lines of code.<br>
-</p>
-<br>
-
-## 🌐 Socials:
-
-<p align="center">
-<a href="https://www.linkedin.com/in/iamaparnaojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/user/ojhaap7qao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" /></a>
-   <a href="https://leetcode.com/u/iamaparnaojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-<a href="https://www.naukri.com/code360/profile/14ea57d1-3937-400b-99e0-df788809d34a1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="code360" height="30" width="40" /></a>
-<a href="mailto:ojhaaparna0@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ojhaaparna0@gmail.com" height="30" width="40" /></a>
+  <i>"First, solve the problem. Then, write the code." </i> – John Johnson
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+---
 
-
-<h2 align="center">🛠️ My Tech Arsenal</h2>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-<br>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamaparnaojha&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamaparnaojha&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamaparnaojha&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<br>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamaparnaojha&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
-<br>
-
-
-<h2 align="center">🐍 Contributions Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iamaparnaojha/iamaparnaojha/output/snake.svg" alt="Snake animation" />
-</p>
-
-<br>
-
-<h2 align="center">👁️ Profile Views</h2>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/iamaparnaojha/count.svg" alt="Visitor Count" />
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-<a href="https://github.com/iamaparnaojha/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamaparnaojha&theme=high-contrast" alt="Aparna's GitHub Activity Graph" />
-</a>
-
-<h2 align="center">💡 A Coding Thought</h2>
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i><br>
-  - Cory House
-</p>
-
-<p align="center">
-  Thanks for visiting my profile! Have a great day! 😊
-</p>
-
-<!---
-iamaparnaojha/iamaparnaojha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">⭐ If you like my work, consider starring my repos!</p>
