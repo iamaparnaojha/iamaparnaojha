@@ -14,7 +14,7 @@
 ## 🌟 About Me  
 
 - 💻 I love building **fast, responsive, full-stack web apps**  
-- ⚙️ Exploring **MERN stack, APIs, and secure architectures**  
+- ⚙️  **MERN stack Developer, Gen AI and RAG systems**  
 - 📚 Leveling up in **Data Structures & Algorithms (C++)**  
 - 🎨 Enjoy adding **GSAP animations** & smooth UI touches  
 - ☕ Most productive with **good music + coffee**  
